@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap');
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Vazirmatn", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+/* .customApp{
+  background-image: url('./assets/images/Main.png');
+} */
+.header{
+  padding: 5px 0;
+  margin: 10px 0;
+}
+.contact-us-btn{
+  padding: 8px;
+}
+.main *{
+  padding: 0 40px;
+}
+.main{
+  padding: 40px;
+  line-height: 20px;
+}
+.main h2{
+  margin: 20px 0;
+}
+.logo-name{
+  text-shadow: 5px 5px 11px #74512D;
+}
+
+.welcomeBox h1{
+  margin: 20px 0;
+}
+.order-btn{
+  margin: 20px 40px;
+  padding: 20px;
+  margin-top: 10px;
+}
+.loginBox, .loginBtn{
+  padding: 10px;
+}
+.loginBox *{
+  margin: 10px 0;
+}
+.loginBox input{
+  padding: 10px; 
+}
+.loginBox input:focus{
+  outline: none;
+}
+.logSignBox .split{
+  padding: 15px;
+}
+.logSignNav div{
+  padding: 15px;
+}
+.logSignNav div label{
+  cursor: pointer;
+  padding: 16px;
+}
+.logSignNav div input[type="radio"]:checked + label{
+  background-color: #543310;
+  color: #F8F4E1;
+  
+}
+.errorBoxParent{
+  padding: 25px;
+}
+.errorBox{
+  padding: 40px;
+}
+.errorBox *{
+  margin: 50px 0;
+  color: #F8F4E1;
+}
+/* .AdminComponent{
+  margin: 20px;
+} */
+
+.about-us-section-content{
+  margin: 20px 0;
+}
+.AdminComponent{
+  margin: 10px 0;
+}
+.admins-sec{
+  margin-top: 20px;
+}
+.footer-sec{
+  position: absolute;
+  bottom: 0;
+  left: 0 ;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.coffee-submit{
+  padding: 10px;
+}
+.CaffeeTitle input[type="radio"]:checked + label{
+  color: aqua;
+}
+.cardCoffee{
+  margin: 15px 0;
+}
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #543310;
+  border-radius: 16px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #AF8F6F;
+  border-radius: 16px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #74512D;
+}
