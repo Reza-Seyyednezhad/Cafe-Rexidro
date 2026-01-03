@@ -6,6 +6,13 @@ This project represents a digital platform for a cafe, allowing users to explore
 🌐 **Live Demo:**  
   - **https://cafe-rexidro.vercel.app/**
 
+---
+
+## 🖼️ Cover
+
+<p align="center">
+  <img src="public/Cover.jpg" width="700">
+</p>
 
 ---
 
@@ -64,6 +71,12 @@ npm run dev
 ---
 
 ## 📸 Screenshots
+
+<p align="center">
+  <img src="public/Screenshots/Home.png" width="700">
+</p
+
+-
 
 You can view the live version of the website here:
 - **👉 https://cafe-rexidro.vercel.app/**
