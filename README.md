@@ -76,7 +76,6 @@ npm run dev
   <img src="public/Screenshots/Home.png" width="700">
 </p
 
--
 
 You can view the live version of the website here:
 - **👉 https://cafe-rexidro.vercel.app/**
