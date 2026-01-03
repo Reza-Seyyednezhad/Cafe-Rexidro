@@ -4,10 +4,8 @@
 This project represents a digital platform for a cafe, allowing users to explore the cafe, order coffee online, and manage authentication through login and registration pages.
 
 🌐 **Live Demo:**  
-https://cafe-rexidro.vercel.app/
+  - **https://cafe-rexidro.vercel.app/**
 
-📦 **Repository Name:**  
-Cafe-Rexidro
 
 ---
 
