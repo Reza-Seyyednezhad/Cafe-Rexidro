@@ -85,8 +85,8 @@ You can view the live version of the website here:
 
 - This project is currently completed and deployed.
 - Future improvements may include:
-  - **Backend integration **
-  - **Shopping cart functionality **
+  - **Backend integration**
+  - **Shopping cart functionality**
   - **Payment gateway**
   - **User dashboard**
 
